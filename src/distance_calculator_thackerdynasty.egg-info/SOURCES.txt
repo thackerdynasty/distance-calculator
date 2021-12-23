@@ -1,7 +1,0 @@
-README.md
-pyproject.toml
-setup.cfg
-src/distance_calculator_thackerdynasty.egg-info/PKG-INFO
-src/distance_calculator_thackerdynasty.egg-info/SOURCES.txt
-src/distance_calculator_thackerdynasty.egg-info/dependency_links.txt
-src/distance_calculator_thackerdynasty.egg-info/top_level.txt
